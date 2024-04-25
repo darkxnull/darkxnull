@@ -7,6 +7,15 @@
 ###
 
 <div align="center">
+<h3>Discord Activity</h3>
+   <a href="https://discord.com/users/697361342687871007" target="_blank">
+      <img src="https://lanyard.cnrad.dev/api/697361342687871007?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
+   </a>
+</div>
+
+
+
+<div align="center">
   <a href="https://open.spotify.com/user/cjezwkasz9kmte79ciklndtg5">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=cjezwkasz9kmte79ciklndtg5&count=1&unique=false" alt="Spotify recently played"  />
   </a>
