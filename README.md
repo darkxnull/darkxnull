@@ -1,4 +1,4 @@
-[![darkxnull](https://cdn.discordapp.com/attachments/852666407250690141/883344234575462410/benmalimbeta.png)]
+[![darkxnull](https://cdn.discordapp.com/attachments/1232454048452444184/1232850048434438274/56b9bcbd4249ff20ae01c128ccceb1cb.gif?ex=662af494&is=6629a314&hm=a1e0d4ad8afa8c645d858b0aa4a573007e5416acc798f94592e01364fee70a0b&)]
 
 <br clear="both">
 
