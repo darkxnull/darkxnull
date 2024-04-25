@@ -7,7 +7,6 @@
 ###
 
 <div align="center">
-<h3>Discord Activity</h3>
    <a href="https://discord.com/users/697361342687871007" target="_blank">
       <img src="https://lanyard.cnrad.dev/api/697361342687871007?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
    </a>
