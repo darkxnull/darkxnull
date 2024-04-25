@@ -1,16 +1,17 @@
 [![darkxnull](https://cdn.discordapp.com/attachments/852666407250690141/883344234575462410/benmalimbeta.png)]
 
-<div align="center">
-<h3>Contact İnformation</h3>
-<a href="https://discord.com/users/697361342687871007" target"blank_"><img src="https://img.shields.io/badge/Beta%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="[https://open.spotify.com/user/11145406245?si=ca90a1371ab64f8f](https://open.spotify.com/user/cjezwkasz9kmte79ciklndtg5?si=24f2c0af69eb4808)" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://github.com/darkxnull" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
+<br clear="both">
 
 <div align="center">
-<h3>Discord</h3>
-   <a href="https://discord.com/users/697361342687871007" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/697361342687871007?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
-   </a>
+  <img height="200" src="https://cdn.discordapp.com/attachments/1232454048452444184/1232850048434438274/56b9bcbd4249ff20ae01c128ccceb1cb.gif?ex=662af494&is=6629a314&hm=a1e0d4ad8afa8c645d858b0aa4a573007e5416acc798f94592e01364fee70a0b&"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/![DarK](https://spotify-recently-played-readme.vercel.app/api?user=cjezwkasz9kmte79ciklndtg5)">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BDarK%5D(https://spotify-recently-played-readme.vercel.app/api?user=cjezwkasz9kmte79ciklndtg5)&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
