@@ -1,4 +1,4 @@
-[![darkxnull](https://cdn.discordapp.com/attachments/852666407250690141/883344234575462410/benmalimbeta.png)](https://github.com/BetaWile/)
+[![darkxnull](https://cdn.discordapp.com/attachments/852666407250690141/883344234575462410/benmalimbeta.png)]
 
 <div align="center">
 <h3>Contact İnformation</h3>
