@@ -1,4 +1,3 @@
-![darkxnull](https://cdn.discordapp.com/attachments/1232454048452444184/1232850048434438274/56b9bcbd4249ff20ae01c128ccceb1cb.gif?ex=662af494&is=6629a314&hm=a1e0d4ad8afa8c645d858b0aa4a573007e5416acc798f94592e01364fee70a0b&)
 
 <br clear="both">
 
@@ -15,3 +14,11 @@
 </div>
 
 ###
+
+<div align="center">
+<h3>Discord Activity</h3>
+   <a href="https://discord.com/users/697361342687871007" target="_blank">
+      <img src="https://lanyard.cnrad.dev/api/697361342687871007?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
+   </a>
+</div>
+
